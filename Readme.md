@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Maaz Ishtiaq</h1>
-<h3 align="center">An Innovative mind building impressive digital experiences.</h3> 
+<h3 align="center">An Innovative mind building impressive Digital experiences.</h3> 
 
 <br>
 
@@ -22,7 +22,7 @@ I build clean, modern, and interactive web experiences.
 
 <h3 align="center">Languages and Tools:</h3>
 <br>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; max-width: 450px; margin: auto;  ">
+<div align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
   </a>
